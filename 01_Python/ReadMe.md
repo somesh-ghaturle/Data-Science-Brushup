@@ -1,2 +1,0 @@
-1. Python Data Science Handbook refer : https://www.oreilly.com/library/view/python-data-science/9781491912126/
-2. Python for Professional Refer : https://freecomputerbooks.com/Python-Notes-for-Professionals.html
