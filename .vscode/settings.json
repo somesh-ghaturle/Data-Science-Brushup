@@ -4,4 +4,5 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
+    "jupyter.kernels.filter": [{"path": "C:\\Users\\soghatur\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe", "type": "pythonEnvironment"}]
 }
